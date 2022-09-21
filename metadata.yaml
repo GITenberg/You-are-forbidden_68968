@@ -1,0 +1,25 @@
+_repo: You-are-forbidden_68968
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shelton, Jerry
+    gutenberg_agent_id: '55031'
+    url: http://www.gutenberg.org/2009/agents/55031
+description: ''
+gutenberg_issued: '2022-09-11'
+identifiers:
+  gutenberg: '68968'
+language: en
+pgterms:marc905: 20220512111836shelton
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Standard Magazines, Inc.,1947.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: You are forbidden!
+url: http://www.gutenberg.org/ebooks/68968
